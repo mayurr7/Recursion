@@ -15,4 +15,4 @@ public class factorial {
 
         System.out.println("answe is: "+ factorialN(n));
     }
-}38.23
+}
